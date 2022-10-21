@@ -6,7 +6,7 @@
 💫About Me :
 
 
-[![@samratrode's Holopin board](https://holopin.io/api/user/board?user=samratrode)](https://holopin.io/@samratrode)
+[![@samratrode's Holopin board](https://holopin.io/api/user/board?user=samratrode)](https://www.holopin.io/userbadge/cl9iun9q01485109l8ijdrcgib)
 Hi there 👋
 🔭 I’m currently working on Deep Learning
 🌱 I’m currently learning Natural Language processing
