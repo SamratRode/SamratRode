@@ -1,4 +1,12 @@
-# 💫About Me :
+
+
+#
+
+
+💫About Me :
+
+
+[![@samratrode's Holopin board](https://holopin.io/api/user/board?user=samratrode)](https://holopin.io/@samrat)
 Hi there 👋
 🔭 I’m currently working on Deep Learning
 🌱 I’m currently learning Natural Language processing
