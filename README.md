@@ -5,6 +5,7 @@
 
 💫About Me :
 
+College days:
 
 [![@samratrode's Holopin board](https://holopin.me/samratrode)](https://holopin.io/@samratrode)
 Hi there 👋
